@@ -32,3 +32,10 @@ html, body{
     bottom: 0;
     background-color: white;
 }
+#title{
+    position: absolute;
+    color: lightgreen;
+    font-size: 2vw;
+    font-weight: 900;
+    
+}
